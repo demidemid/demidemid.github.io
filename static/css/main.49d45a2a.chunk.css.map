@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,8BACE,UACF,CAEA,2CACE,sBACF,CAEA,gBACE,uBACF","file":"main.49d45a2a.chunk.css","sourcesContent":[".search-custom .ui.icon.input {\n  width: 100%;\n}\n\n.search-custom .results.transition.visible {\n  display: none !important;\n}\n\n.ui.items > .item {\n  margin: 20px 0 !important;\n}\n"]}
